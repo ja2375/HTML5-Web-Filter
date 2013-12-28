@@ -27,3 +27,5 @@ Effects available:
 
 ===============
 This is still a beta version
+
+This is an Open Source project.
